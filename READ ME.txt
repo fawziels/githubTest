@@ -1,0 +1,13 @@
+Project 2
+
+Fawzi ElSharayheh
+Brianna Seisler
+Tarun Katta
+
+To compile:
+g++ Global.cpp Department.cpp employee.cpp Project.cpp
+
+To run:
+./a.out
+
+then insert the input file .txt
